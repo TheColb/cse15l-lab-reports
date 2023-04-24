@@ -1,2 +1,2 @@
-when you access a file
+when you edit a file
 bottom text
