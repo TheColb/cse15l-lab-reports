@@ -8,7 +8,7 @@ The following programs are needed/recommended:\
 [Git](https://gitforwindows.org/)\
 [GitHubDesktop](https://desktop.github.com/)
 
-## Look up your accouunt name and password
+## Look up your account name and password
 
 [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)\
 Your course account name will be under "Additional Accounts" beggining with "cs15l".
