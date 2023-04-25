@@ -3,8 +3,11 @@ This is a tutorial for incoming 15L students on how to log into a course-specifi
 _(Note that this tutorial is meant for Windows)_
 
 ## Installing VSCode
-To install VSCode use the following link:\
-[VSCode](https://code.visualstudio.com/)\
+To install VSCode use the following link:
+
+
+[VSCode](https://code.visualstudio.com/)
+
 The webpage should look like this:\
 ![Image](cse15LVsCode.png)
 When installing, you can just use all of the default settings, however you will later need to set up a terminal for Bash.\
