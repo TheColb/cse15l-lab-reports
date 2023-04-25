@@ -58,7 +58,11 @@ to copy the file and
 ```
 $ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
-to read the contents of the text document.\
+to read the contents of the text document.
+
+Feel free to add or remove file names at the end of the command to navigate different files in the server!
+
+
 To log out you can type the command:
 ```
 $ exit
