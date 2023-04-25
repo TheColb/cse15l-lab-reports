@@ -5,6 +5,9 @@ _(Note that this tutorial is meant for Windows)_
 ## Installations
 The following programs are needed/recommended:\
 [VSCode](https://code.visualstudio.com/)\
+The webpage should look like this:
+![Image](cse15LVsCode.png)
+When installing, you can just use all of the default settings, however you will later need to set up a terminal for Bash.\
 [Git](https://gitforwindows.org/)\
 [GitHubDesktop](https://desktop.github.com/)
 
